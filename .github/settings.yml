@@ -257,8 +257,9 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 1.0.99.0-adoption
-    description: progress toward 1.0.99.0-adoption
+  - title: 1.1.0.0-adoption
+    oldname: 1.0.99.0-adoption
+    description: progress toward 1.1.0.0-adoption
     state: open
 
   - title: Localization - Master
