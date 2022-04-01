@@ -104,7 +104,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 #### Original (0) - Author: [`godarklight`][godarklight]
 
 > Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:download] - Source: [GitHub][MOD:0:source]
-> License: [![License][LIC:0:shd]][LIC:0:url] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PD-icon-black.svg/140px-PD-icon-black.svg.png" alt="PD-icon-black.svg" style="zoom:15%;" />
+> License: [![License][LIC:0:shd]][LIC:0:url]
 
 <!-- mod links -->
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/NyanCat/master/Attribution.md "Attribution"
