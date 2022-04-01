@@ -40,7 +40,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
->* <img src="https://github.com/zer0Kerbal/NyanCat/blob/master/img/VogonConstruction.png?raw=true" alt="Vogon" style="zoom:5.5%;" /> Vogon <vogon.cfg>
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
