@@ -57,12 +57,12 @@ namespace NyanCat
         {
             get
             {
-                //bool correctAlt = (followVessel.altitude > 9000f) && (followVessel.altitude < 10000f);
-                bool correctAlt = (followVessel.altitude > 1000f) && (followVessel.altitude < 100000f);
-                //bool correctSpeed = followVessel.srfSpeed > 500f;
-                bool correctSpeed = followVessel.srfSpeed > 50f;
-                //bool correctVerticalSpeed = followVessel.verticalSpeed < 50f;
-                bool correctVerticalSpeed = followVessel.verticalSpeed < 500f;
+                bool correctAlt = (followVessel.altitude > 9000f) && (followVessel.altitude < 10000f);
+                //bool correctAlt = (followVessel.altitude > 1000f) && (followVessel.altitude < 100000f);
+                bool correctSpeed = followVessel.srfSpeed > 500f;
+                //bool correctSpeed = followVessel.srfSpeed > 50f;
+                bool correctVerticalSpeed = followVessel.verticalSpeed < 50f;
+                //bool correctVerticalSpeed = followVessel.verticalSpeed < 500f;
                 return followVessel.loaded && correctAlt && correctSpeed && correctVerticalSpeed;
             }
         }
