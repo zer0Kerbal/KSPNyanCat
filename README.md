@@ -103,7 +103,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Original (0) - Author: [`godarklight`][godarklight]
 
-> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:download] - Source: [GitHub][MOD:0:source]
+> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:download] - Source: [GitHub][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url]
 
 <!-- mod links -->
