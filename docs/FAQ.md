@@ -8,8 +8,9 @@ tags: faq,questions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- FAQ.md v1.0.0.0
 NyanCat (NCAT)
-created: 01 Oct 2019
-updated: 02 Mar 2022 -->
+created: 01 Apr 2022
+updated: 
+-->
 
 # NyanCat (NCAT)
 
