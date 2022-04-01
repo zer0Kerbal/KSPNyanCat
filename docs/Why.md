@@ -3,34 +3,33 @@ permalink: /Why.html
 title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 # layout: bare
-tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
+tags: fourty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Why.md v1.1.0.0
 NyanCat (NCAT)
-created: 01 Oct 2019
-updated: 02 Mar 2022 -->
+created: 01 Apr 2019
+updated: 
+-->
 
 # NyanCat (NCAT)
 
 [Home](/index.md)
 
-## Introduction by [`@MatterBeam`][matterbeam]
+## Answered by 
 
-> Lately my Munar base turned into a mess of eight different vessels connected together with KAS winches.
->
-> FPS reduced dramatically, managing became nearly impossible.
->
-> I turned my gaze on to USI MKS and it's Logistics feature, but MKS adds too much stuff I don't really need.
->
-> So after hacking a little I discovered that all logistics is done by USI Tools mod and MKS is not really required to do the job.
->
-> Instead of reinventing the wheel I created a set of patches to bring logistics to stock parts.
->
-> But I was completely unhappy with the fact that I cannot transfer Rocket Parts from my RP printing lab to nearby RP freight. So I decided to create my own logistics system with a Blackjack and .... whatever...
+[<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" alt="zer0Kerbal" style="zoom:42%;" />](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)` [zer0Kerbal][zer0Kerbal]
 
-![Munar Base](https://i.imgur.com/PA05bBw.png)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreesvg.org%2Fimg%2FWhyNot.png&f=1&nofb=1" alt="Why Not? | Free SVG" style="zoom:42%;" />
 
-[matterbeam]: https://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F348%2F226%2F355%2Fquotes-the-hitchhikers-guide-to-the-galaxy-marvin-the-paranoid-android-space-galaxies-hd-art-wallpaper-preview.jpg&f=1&nofb=1" alt="Public Domain Hitchhikers 1080P, 2K, 4K, 5K HD wallpapers free download ..." style="zoom:80%;" />
+
+**Edited April 1st, 2022 by [zer0Kerbal][zer0Kerbal]**
+
+[godarklight]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "zer0Kerbal"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+
+
+
