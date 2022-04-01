@@ -85,9 +85,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Credits and Special Thanks
 
-> see [Attribution.md][MOD:attr] for comprehensive list</summary>
+see [Attribution.md][MOD:attr] for comprehensive list</summary>
 >
-> [godarklight][godarklight] for this glorious mod!
+>* [godarklight][godarklight] for this glorious mod!
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
