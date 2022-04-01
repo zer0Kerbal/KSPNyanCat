@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7051D5D-91C3-4D65-B6D1-672D2F14D285}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>NyanCat</RootNamespace>
+    <AssemblyName>NyanCat</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>embedded</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>true</Optimize>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <OutputPath>..\GameData\NyanCat\Plugins</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>embedded</DebugType>
+    <Optimize>true</Optimize>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <OutputPath>..\GameData\NyanCat\Plugins</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="$(K112)\KSP_x64_Data\Managed\Assembly-CSharp.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="$(K112)\KSP_x64_Data\Managed\Assembly-CSharp-firstpass.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="$(K112)\KSP_x64_Data\Managed\UnityEngine.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="$(K112)\KSP_x64_Data\Managed\UnityEngine.CoreModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="$(K112)\KSP_x64_Data\Managed\UnityEngine.AudioModule.dll">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="NyanTrail.cs" />
+    <Compile Include="NyanSound.cs" />
+    <Compile Include="NyanSquare.cs" />
+    <Compile Include="Properties\Version.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Version.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\Version.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Version.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
