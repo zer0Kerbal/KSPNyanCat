@@ -60,7 +60,7 @@ Q: How do I Nyan?
 ### See More
 
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
 * GitHub Pages : See [Pages][MOD:pages]
 
@@ -168,13 +168,13 @@ see [Attribution.md][MOD:attr] for comprehensive list</summary>
 <!-- links to add-ons/mods -->
 [mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
+[ckan:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
