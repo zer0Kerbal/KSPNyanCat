@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.1.0
-NyanCat (NCAT)
+NyanCat (NYAN)
 created: 01 Apr 2019
 updated: 01 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# NyanCat (NCAT)
+## [NyanCat (NYAN)][mod]
 
 A nyan cat add-on for Kerbal Space Program.
 
