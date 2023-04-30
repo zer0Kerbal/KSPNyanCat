@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | NyanCat (NCAT)                                                   |
+| modName    | NyanCat (NYAN)                                                   |
 | ---------- | ---------------------------------------------------------------- |
 | license    | BSD-2-Clause                                                     |
 | author     | godarklight and zer0Kerbal                                       |
