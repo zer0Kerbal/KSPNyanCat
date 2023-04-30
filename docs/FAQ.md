@@ -2,21 +2,23 @@
 permalink: /FAQ.html
 title: Frequently Asked Questions
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: faq,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- FAQ.md v1.0.0.0
-NyanCat (NCAT)
+<!-- FAKQ.md v1.1.0.0
+NyanCat (NYAN)
 created: 01 Apr 2022
-updated: 
+updated: 30 Apr 2023
+
+TEMPLATE: FAKQ.md v1.0.0.0
+created: 01 Apr 2022
+updated: 30 Apr 2023
 -->
 
-# NyanCat (NCAT)
+## [NyanCat (NYAN)][mod]
 
 [Home](/index.md)
 
-## Frequently Asked Questions **FAQ** by [`@godarklight`][godarklight]
+## Frequently Asked Kuestions **FAK** by [`godarklight`][godarklight]
 
 ### Q: How do I Nyan?
 
@@ -46,4 +48,6 @@ For those questioning the grips on my reality, please click [here](https://forum
 
 [godarklight]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "godarklight"
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/NyanCat "NyanCat (NYAN)"
