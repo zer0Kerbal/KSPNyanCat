@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.6.1
-NyanCat (NCAT)
+NyanCat (NYAN)
 created: 01 Apr 2019
 updated: 
 -->
@@ -14,7 +14,7 @@ updated:
 
 
 
-# NyanCat (NCAT)
+## [NyanCat (NYAN)][mod]
 
 A nyan cat add-on for Kerbal Space Program.
 
