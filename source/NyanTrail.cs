@@ -39,6 +39,7 @@ namespace NyanCat
         private void ShowTrail()
         {
             Debug.Log("Nyan showing trail for " + followVessel.id + " (" + followVessel.name + ")");
+            //Debug.Log("Nyan showing trail for " + followVessel.id + " (" + followVessel.name + ")");
             nyanSound.Start();
         }
 
@@ -111,4 +112,3 @@ namespace NyanCat
     }
 
 }
-

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NyanCat</name>
+    </assembly>
+    <members>
+        <member name="T:NyanCat.Version">
+            <summary>Version - retrieved at compile from NyanCat.version</summary>
+        </member>
+        <member name="F:NyanCat.Version.major">
+            <summary>Major revision</summary>
+        </member>
+        <member name="F:NyanCat.Version.minor">
+            <summary>Minor revision</summary>
+        </member>
+        <member name="F:NyanCat.Version.patch">
+            <summary>Patch revision</summary>
+        </member>
+        <member name="F:NyanCat.Version.build">
+            <summary>Build revision</summary>
+        </member>
+        <member name="F:NyanCat.Version.Number">
+            <summary>Version String const</summary>
+        </member>
+        <member name="F:NyanCat.Version.Text">
+            <summary>Text Version String const</summary>
+        </member>
+        <member name="F:NyanCat.Version.SText">
+            <summary>Plain Text Version String const</summary>
+        </member>
+    </members>
+</doc>

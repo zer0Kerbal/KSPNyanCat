@@ -48,7 +48,7 @@ namespace NyanCat
             uv[3] = new Vector2(1f, 1f);
             squareMesh.uv = uv;
 
-            squareMesh.Optimize();
+            //squareMesh.Optimize(); [Obsolete]
             squareMesh.RecalculateNormals();
 
             for (int textureID = 0; textureID < 10; textureID++)
@@ -123,4 +123,3 @@ namespace NyanCat
         }
     }
 }
-
