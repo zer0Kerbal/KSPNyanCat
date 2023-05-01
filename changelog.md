@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | NyanCat (NYAN)                                                   |
-| ---------- | ---------------------------------------------------------------- |
-| license    | BSD-2-Clause                                                     |
-| author     | godarklight and zer0Kerbal                                       |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NyanCat)               |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NyanCat)             |
-| spacedock  | (https://spacedock.info/mod/3000)                                |
-| ckan       | NyanCat                                                          |
+| modName    | NyanCat (NYAN)                                                    |
+| ---------- | ----------------------------------------------------------------- |
+| license    | BSD-2-Clause                                                      |
+| author     | godarklight and zer0Kerbal                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NyanCat)                |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NyanCat)              |
+| spacedock  | (https://spacedock.info/mod/3000)                                 |
+| ckan       | NyanCat                                                           |
 
 ## Version 1.1.0.0-adoption - `<Herding SpaceCats>`
 
