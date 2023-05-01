@@ -55,8 +55,6 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
     + [godarklight]
       + [NyanCat]
         ...
-      + [Localization]
-        ...
       + [Plugins]
           NyanCat.dll
       * #.#.#.#.htm
