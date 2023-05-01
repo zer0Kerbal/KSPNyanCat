@@ -10,7 +10,6 @@
 - [Disclaimer](Disclaimer.md)
 - [FAQ](FAQ.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
-- [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
 - [Marketing](Marketing.md)
 - [Testimonials](Testimonials.md)
