@@ -56,12 +56,12 @@
     <Reference Include="$(K14)UnityEngine.dll">
       <Private>False</Private>
     </Reference>
-    <Reference Include="$(K14)UnityEngine.CoreModule.dll">
+    <!-- <Reference Include="$(K14)UnityEngine.CoreModule.dll">
       <Private>False</Private>
-    </Reference>
-    <Reference Include="$(K14)UnityEngine.AudioModule.dll">
+    </Reference> -->
+    <!-- <Reference Include="$(K14)UnityEngine.AudioModule.dll">
       <Private>False</Private>
-    </Reference>
+    </Reference> -->
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
