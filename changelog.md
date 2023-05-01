@@ -34,3 +34,7 @@
   * closes #5 - 1.1.0.0 Create Social Media
 
 ---
+
+### 1.0.0.0
+
+23 Nov 2014
