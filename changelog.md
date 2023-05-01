@@ -42,7 +42,6 @@
     * [ManualInstallation.md] v1.1.8.0
     * [404.md] v1.0.3.2
     * [LegalMumboJumbo.md] v1.0.5.1
-    * [Localizations.md] v1.1.7.0
     * [Why.md] v1.1.0.0
 * HeroLogo.png
   * copy/convert to HeroLogo.jpg
