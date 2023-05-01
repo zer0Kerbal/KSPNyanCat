@@ -50,10 +50,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Translations
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
-</ul>
+* none needed
 
 ### Special Thanks
 
